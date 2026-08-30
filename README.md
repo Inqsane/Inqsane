@@ -21,8 +21,6 @@
   <img src="card/discord-card.png" alt="inqsane Discord profile card" width="340" />
 </p>
 
----
-
 <p align="center">
   <strong>Ado</strong>
 </p>
@@ -34,13 +32,13 @@
   <img src="ado/best-adobum.jpg" width="180" alt="Ado's Best Adobum" />
 </p>
 
----
-
 <p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inqsane&background=0A1218&ring=5CE1FF&fire=5CE1FF&currStreakLabel=5CE1FF&sideLabels=8BA3B5&dates=8BA3B5&currStreakNum=E8F7FF&sideNums=C9D4E0&stroke=12323C&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Inqsane)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0a1218?style=for-the-badge&logo=python&logoColor=5ce1ff" alt="Python" />
