@@ -14,6 +14,7 @@
 <p align="center">
   Contact me via <a href="mailto:inqsane@inqsane.eu">inqsane@inqsane.eu</a>
   · <a href="https://inqsane.eu">inqsane.eu</a>
+  <br/>I currently work for HES (Hydroeletric Simulator) as the Head of Systems.
 </p>
 
 <p align="center">
