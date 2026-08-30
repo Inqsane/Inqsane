@@ -38,8 +38,6 @@
   </a>
 </p>
 
-[![inqsane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inqsane&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0a1218?style=for-the-badge&logo=python&logoColor=5ce1ff" alt="Python" />
   <img src="https://img.shields.io/badge/Discord.py-0a1218?style=for-the-badge&logo=discord&logoColor=5ce1ff" alt="Discord.py" />
