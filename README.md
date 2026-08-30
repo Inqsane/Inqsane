@@ -38,7 +38,7 @@
   </a>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Inqsane)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=inqsane&theme=react)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0a1218?style=for-the-badge&logo=python&logoColor=5ce1ff" alt="Python" />
